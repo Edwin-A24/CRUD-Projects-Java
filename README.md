@@ -1,9 +1,79 @@
-🌟 CRUD-Basico 👋 Bienvenido,
+# 📚 Java CRUD Examples
 
-En este repositorio encontraras varios proyectos incluyendo los metodos basicos del CRUD.
+A collection of Java projects developed to practice the basic CRUD operations (Create, Read, Update, Delete).
 
-💥 CRUD (Create, Read, Update, Delete):
+This repository contains different academic exercises and examples focused on data management, fundamental programming concepts, and the application of Object-Oriented Programming (OOP) principles.
 
-Es un acrónimo para las maneras en las que se puede operar sobre información almacenada. 
-Es un nemónico para las cuatro funciones del almacenamiento persistente. CRUD usualmente se refiere a operaciones llevadas a cabo en una base de datos o un almácen de datos, 
-pero también pude aplicar a funciones de un nivel superior de una aplicación como soft deletes donde la información no es realmente eliminada, sino es marcada como eliminada a tráves de un estatus.
+---
+
+## 🚀 Purpose
+
+To strengthen skills in:
+
+* Object-Oriented Programming (OOP)
+* Data structures and collections management
+* Data validation and information handling
+* CRUD application design
+* Java programming best practices
+
+---
+
+## 📂 Included Projects
+
+### 📖 Library CRUD
+
+A basic system for managing books and loans.
+
+**Main Features:**
+
+* Create records
+* Read information
+* Update data
+* Delete records
+
+---
+
+### 🐶 Pet CRUD
+
+An application for managing pet information.
+
+**Main Features:**
+
+* Register pets
+* View records
+* Update information
+* Delete records
+
+---
+
+### 🐾 Pet CRUD 2
+
+An improved version of the pet management system with a better code structure and organization.
+
+---
+
+## 🛠️ Technologies Used
+
+* Java
+* Object-Oriented Programming (OOP)
+* Data Structures
+* IDE: NetBeans / IntelliJ IDEA
+
+---
+
+## 📚 Concepts Applied
+
+* Classes and Objects
+* Encapsulation
+* Lists and Collections
+* Methods and Functions
+* Data Validation
+* CRUD Operations
+
+---
+
+## 👨‍💻 Author
+
+**Edwin Amezquita**
+
+Systems Engineering student interested in software development, IA, Java, Spring Boot, and backend technologies.
